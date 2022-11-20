@@ -131,3 +131,16 @@ ul{
   from {opacity: .4} 
   to {opacity: 1}
 }
+.bemutatkozas_otto {
+  width: auto;
+  height: auto;
+  float: left;
+  margin-left: 100px;
+  margin-right: 200px;
+}
+.bemutatkozas_kornel{
+  float: right;
+  width: auto;
+  height:auto
+  
+}
