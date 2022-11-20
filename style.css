@@ -131,3 +131,6 @@ ul{
   from {opacity: .4} 
   to {opacity: 1}
 }
+.bemutatkozas_otto{
+  image-resolution: 300px 200px;
+}
