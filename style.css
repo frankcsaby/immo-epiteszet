@@ -138,3 +138,10 @@ nav ul li a:hover{
 		font-size: 3.2rem;
 	}
 }
+.galeria{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
