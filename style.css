@@ -370,3 +370,54 @@ section {
 .lightbox .spinner {
   display: none;
 }
+.welcome {
+  padding-top: 50px;
+  text-align: justify;
+}
+.welcome2 {
+  font-style: italic;
+}
+.welcome3 {
+  padding-bottom: 70px;
+}
+.intro {
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+.otto-bem {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.bemutatkozas {
+  text-align: center;
+}
+.otto_p {
+  padding-bottom: 20px;
+}
+.anna_p {
+  padding-bottom: 20px;
+}
+.zsolt_p {
+  padding-bottom: 20px;
+}
+.kornel_p {
+  padding-bottom: 20px;
+}
+.index_modern {
+  padding-bottom: 20px;
+}
+.index_konnyu {
+  padding-bottom: 20px;
+}
+.index_tegla {
+  padding-bottom: 20px;
+}
+.index_general {
+  padding-bottom: 20px;
+}
+.index_jogaszok {
+  padding-bottom: 20px;
+}
+.ingatlan {
+  padding-bottom: 40px;
+}
