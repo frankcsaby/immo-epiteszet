@@ -287,6 +287,9 @@ section {
 @media (min-width: 1280px) {
   .navbar {
     padding: 0;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
   }
 
   .navbar ul {
