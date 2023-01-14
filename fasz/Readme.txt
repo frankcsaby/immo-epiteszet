@@ -1,6 +1,10 @@
-Thanks for downloading this template!
-
-Template Name: UpConstruction
-Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+<!--
+  _               _                  _     _                                     _         __  _ _        
+ | |             | |                | |   (_)                                   (_)       /_/ | | |       
+ | |__   ___   __| | ___     ___ ___| |_   _ ___   _ __ ___   ___  __ _  ___ ___ _ _ __   __ _| | |_ __ _ 
+ | '_ \ / _ \ / _` |/ _ \   / _ \_  / __| | / __| | '_ ` _ \ / _ \/ _` |/ __/ __| | '_ \ / _` | | __/ _` |
+ | |_) | (_) | (_| | (_) | |  __// /| |_  | \__ \ | | | | | |  __/ (_| | (__\__ \ | | | | (_| | | || (_| |
+ |_.__/ \___/ \__,_|\___/   \___/___|\__| |_|___/ |_| |_| |_|\___|\__, |\___|___/_|_| |_|\__,_|_|\__\__,_|
+                                                                   __/ |                                   
+                                                                  |___/                                   
+    -->
