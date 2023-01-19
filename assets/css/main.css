@@ -2680,6 +2680,8 @@ section {
 .footer .footer-legal .credits a {
   color: var(--color-primary);
 }
+
+/* Cookies */
 .wrapper {
   position: fixed;
   bottom: 30px;
@@ -2689,7 +2691,7 @@ section {
   border-radius: 15px;
   text-align: center;
   padding: 25px 25px 30px 25px;
-  
+
 }
 .wrapper img {
   max-width: 90px;
@@ -2728,4 +2730,7 @@ section {
 }
 .buttons a {
   color: #FCBA7F;
+}
+.hide {
+  display: none;
 }
