@@ -2689,6 +2689,7 @@ section {
   border-radius: 15px;
   text-align: center;
   padding: 25px 25px 30px 25px;
+  
 }
 .wrapper img {
   max-width: 90px;
@@ -2723,6 +2724,7 @@ section {
   font-weight: 500;
   color: #fff;
   border-radius: 5px;
+  animation: hover;
 }
 .buttons a {
   color: #FCBA7F;
