@@ -2731,3 +2731,6 @@ section {
 .buttons a {
   color: #FCBA7F;
 }
+.hide {
+  display: none;
+}
