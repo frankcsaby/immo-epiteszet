@@ -449,8 +449,8 @@ section {
     z-index: 9998;
   }
 
-  .navbar a,
-  .navbar a:focus {
+  .navbar a
+  {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -463,7 +463,9 @@ section {
     text-transform: uppercase;
     transition: 0.3s;
   }
-
+  .navbar a:focus {
+    color: #fff;
+  }
   .navbar a i,
   .navbar a:focus i {
     font-size: 12px;
@@ -1933,7 +1935,7 @@ section {
   display: inline-block;
   padding: 12px 40px;
   border-radius: 50px;
-  transition: 0.5s;
+  transition: 0.7s;
   margin: 10px;
   color: #fff;
   border: 2px solid var(--color-primary);
@@ -2716,6 +2718,8 @@ section {
 }
 .buttons .item {
   margin: 0 10px;
+  animation: hover;
+
 }
 .buttons .button {
   padding: 10px 20px;
