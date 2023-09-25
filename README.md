@@ -1,1 +1,1 @@
-✿.｡.:* ☆:**:. 𝓑𝕆๔𝑜 𝔼𝓩𝓣 ⓘ𝐬 𝐌𝓔g𝓒ⓢ𝐢ⓝÃ𝓛丅Δ .:**:.☆*.:｡.✿
+This website, is under Entwickler Kft. property. Every picture or media file is blocked to use in commercial.
